@@ -41,7 +41,7 @@ It includes detailed information on:
 **🧹 Data Cleaning - Excel**
 - Converted date into Excel compatible format “yyyy-mm-dd”
 
-**〽️ Skills: Trendline, Prediction, Time-Series **
+**〽️ Skills: Trendline, Prediction, Time-Series**
 
 ### 📊 Analysis
 **💡Insights**
@@ -90,4 +90,4 @@ It includes detailed information on:
 - The company could have these employees lead workshops on their methodology to inspire and inform other salespersons
 
 ## Conclusion
-	As a data enthusiast, I delved into this Excel-based project to understand how data could help form business decisions. This project required me to use pivot charts and pivot tables in a way that might identify areas of improvement. In the case of this chocolate company, I learned that the best-selling product is Smooth Silky Salty, that the months of June and July are the most profitable, and that the company needs to improve sales in Canada. It is recommended that the company inform their marketing plans with these insights in mind.  
+As a data enthusiast, I delved into this Excel-based project to understand how data could help form business decisions. This project required me to use pivot charts and pivot tables in a way that might identify areas of improvement. In the case of this chocolate company, I learned that the best-selling product is Smooth Silky Salty, that the months of June and July are the most profitable, and that the company needs to improve sales in Canada. It is recommended that the company inform their marketing plans with these insights in mind.  
