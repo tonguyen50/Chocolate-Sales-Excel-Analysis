@@ -38,10 +38,10 @@ It includes detailed information on:
 
 ## 1️⃣ What is the trend for revenue over time?
 
-🧹 **Data Cleaning - Excel**
+**🧹 Data Cleaning - Excel**
 - Converted date into Excel compatible format “yyyy-mm-dd”
 
-### 〽️ Skills: Trendline, Prediction, Time-Series 
+**〽️ Skills: Trendline, Prediction, Time-Series **
 
 ### 📊 Analysis
 **💡Insights**
@@ -54,7 +54,7 @@ It includes detailed information on:
 
 ## 2️⃣ What products produce the highest amount of revenue?
 
-### ✂️ Skills: Pivot Chart, PivotTable, Slicers
+**✂️ Skills: Pivot Chart, PivotTable, Slicers**
 
 ### 📊 Analysis
 **💡Insights**
@@ -67,7 +67,7 @@ It includes detailed information on:
 
 ## 3️⃣ What country produces the highest amount of revenue? 
 
-### 💹 Skills: Pivot Chart, PivotTable
+**💹 Skills: Pivot Chart, PivotTable**
 
 ### 📊 Analysis
 **💡Insights**
@@ -80,7 +80,7 @@ It includes detailed information on:
 
 ## 4️⃣ Who are the most successful salespersons? 
 
-### 💹 Skills: Pivot Chart, PivotTable
+**💹 Skills: Pivot Chart, PivotTable**
 
 ### 📊 Analysis
 **💡Insights**
