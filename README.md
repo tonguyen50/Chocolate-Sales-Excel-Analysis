@@ -41,9 +41,9 @@ It includes detailed information on:
 🧹 **Data Cleaning - Excel**
 - Converted date into Excel compatible format “yyyy-mm-dd”
 
-#### 〽️ Skills: Trendline, Prediction, Time-Series 
+### 〽️ Skills: Trendline, Prediction, Time-Series 
 
-#### 📊 Analysis
+### 📊 Analysis
 **💡Insights**
 - Product revenue is between $60,000 - $100,000 during successful periods. Revenue was most successful and peaked in the period between June and July.
 - The predicted trend line for chocolate sales shows a general decrease in sales
@@ -54,9 +54,9 @@ It includes detailed information on:
 
 ## 2️⃣ What products produce the highest amount of revenue?
 
-#### ✂️ Skills: Pivot Chart, PivotTable, Slicers
+### ✂️ Skills: Pivot Chart, PivotTable, Slicers
 
-#### 📊 Analysis
+### 📊 Analysis
 **💡Insights**
 - Across global sales, Smooth Silky Salty is the top-selling product. It is the top-selling in Canada.
 - In the US the top-selling product is the Raspberry Chocolate
@@ -67,9 +67,9 @@ It includes detailed information on:
 
 ## 3️⃣ What country produces the highest amount of revenue? 
 
-#### 💹 Skills: Pivot Chart, PivotTable
+### 💹 Skills: Pivot Chart, PivotTable
 
-#### 📊 Analysis
+### 📊 Analysis
 **💡Insights**
 - Australia has the most sales at $1,137,367
 - The top 3 products: Smooth Silky Salty, 50% Dark Bites, and White Chocolate are sold most in the countries of India, Australia, and the United Kingdom respectively. 
@@ -80,9 +80,9 @@ It includes detailed information on:
 
 ## 4️⃣ Who are the most successful salespersons? 
 
-#### 💹 Skills: Pivot Chart, PivotTable
+### 💹 Skills: Pivot Chart, PivotTable
 
-#### 📊 Analysis
+### 📊 Analysis
 **💡Insights**
 - Top 3 Salespersons are: Ches Bonnell, Oby Sorrel, and Madelene Upcott  
 **❗So What and Recommendations**
