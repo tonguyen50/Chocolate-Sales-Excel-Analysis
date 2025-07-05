@@ -14,8 +14,8 @@ To understand the sales trends of our company, I asked the following:
 4. Who are the most successful salespersons? 
 
 ### Excel Skills Used 
-📊 Pivot Tables
-📈 Pivot Charts
+- 📊 Pivot Tables
+- 📈 Pivot Charts
 
 ### Data Sources 
 
