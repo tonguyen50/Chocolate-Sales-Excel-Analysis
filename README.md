@@ -30,10 +30,10 @@ To understand the sales trends of our company, I asked the following:
 #### Limitations
 Dataset is from 1 year only 2022
 It includes detailed information on:
-- 👨‍💼 Salesperson
-- 💰 Revenue
-- 📍 Country
-- 🍫 Product
+- 👨‍💼 **Salesperson**
+- 💰 **Revenue**
+- 📍 **Country**
+- 🍫 **Product**
 
 
 ## 1️⃣ What is the trend for revenue over time?
