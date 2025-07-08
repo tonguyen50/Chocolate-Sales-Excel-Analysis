@@ -47,6 +47,9 @@ It includes detailed information on:
 **💡Insights**
 - Product revenue is between $60,000 - $100,000 during successful periods. Revenue was most successful and peaked in the period between June and July.
 - The predicted trend line for chocolate sales shows a general decrease in sales
+
+ ![Prediction for Future Chocolate Sales](https://github.com/user-attachments/assets/e5bcf587-00ed-4823-a20c-d434737446d3)
+ 
   
 **❗So What and Recommendations**
 - The decrease in sales does not bode well for our chocolate company. It is necessary to find areas of improvement to turn the slope of the trend line positive
@@ -62,6 +65,9 @@ It includes detailed information on:
 - Across global sales, Smooth Silky Salty is the top-selling product. It is the top-selling in Canada.
 - In the US the top-selling product is the Raspberry Chocolate
 
+![Top 10 Products by Revenue](https://github.com/user-attachments/assets/a79aa1da-194a-4bff-9961-cc04a1146e96)
+
+
 **❗So What and Recommendations**
 - The company needs to understand the success of each product in relation to the specific country and to the global sales as a whole. Using this information, we can begin brainstorming ideas to take advantage of the popularity of certain products.
 - We recommend creating marketing campaigns that highlight the popularity of products in other countries to increase the sales of those products in countries where those products may not be as popular
@@ -76,6 +82,9 @@ It includes detailed information on:
 - Australia has the most sales at $1,137,367
 - The top 3 products: Smooth Silky Salty, 50% Dark Bites, and White Chocolate are sold most in the countries of India, Australia, and the United Kingdom respectively.
 
+![Total Revenue By Country](https://github.com/user-attachments/assets/9120d7bd-0a35-4480-88e2-97ae47d91d88)
+
+
 **❗So What and Recommendations**
 - This chart help highlight which areas the company is doing well in and the areas that could use some more attention
 - We should look into how we can increase sales in Canada and observe what techniques are working well in Australia
@@ -88,6 +97,9 @@ It includes detailed information on:
 ### 📊 Analysis
 **💡Insights**
 - Top 3 Salespersons are: Ches Bonnell, Oby Sorrel, and Madelene Upcott
+
+![Top Salespersons](https://github.com/user-attachments/assets/9c2a21c7-75da-4701-bc9e-fd3295a639c9)
+
 
 **❗So What and Recommendations**
 - It would be insightful to interview these employees to see what techniques they are employing to generate successful sales
