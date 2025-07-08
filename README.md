@@ -8,10 +8,10 @@ As a current worker in the food service industry, I set out to understand how da
 
 To understand the sales trends of our company, I asked the following:
 
-**1. What is the trend for revenue over time?
-2. What products produce the highest amount of revenue? Are there noticeable trends within products by country?
-3. What country produces the highest amount of revenue? 
-4. Who are the most successful salespersons?**
+1. **What is the trend for revenue over time?**
+2. **What products produce the highest amount of revenue? Are there noticeable trends within products by country?**
+3. **What country produces the highest amount of revenue?**
+4. **Who are the most successful salespersons?**
 
 ### Excel Skills Used 
 - 📊 Pivot Tables
